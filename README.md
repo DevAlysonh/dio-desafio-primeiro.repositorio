@@ -1,7 +1,7 @@
 # Este repositório foi criado para prática do curso de Git/GitHub da DIO! :computer:
 
- 		Este é meu primeiro repositório criado sozinho, vou aproveitar para colocar por aqui
-
+ 		
+   Este é meu primeiro repositório criado sozinho, vou aproveitar para colocar por aqui
 algumas práticas que tenho feito utilizando a tecnologia JAVA. :coffee:
 
 
